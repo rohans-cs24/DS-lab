@@ -26,3 +26,18 @@
 <img src="OUTPUT/BST.png">
 <h2>🙂Breadth first search</h2>
 <img src="OUTPUT/BFS.png">
+<h1>🐧LEETCODE</h1>
+<h2>🍬Delete LL element</h2>
+<img src="Leetcode/Delete LL element.png">
+<h2>🍬Sort LL</h2>
+<img src="Leetcode/Sort LL.png">
+<h2>🍬Reverse the LL</h2>
+<img src="Leetcode/Reverse the LL.png">
+<h2>🍬Merge sorted LL</h2>
+<img src="Leetcode/Merge sorted LL.png">
+<h2>🍬Linked list cycle I</h2>
+<img src="Leetcode/Linked list cycle.png">
+<h2>🍬Linked list cycle II</h2>
+<img src="Leetcode/Linked list cycle ll.png">
+<h2>🍬Find if path exists in a graph</h2>
+<img src="Leetcode/Find if path exists.png">

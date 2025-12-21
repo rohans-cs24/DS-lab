@@ -1,3 +1,4 @@
+<h1>💻LAB OUTPUTS...<h1>
 <h1>📅14/10/25</h1>
 <h2>🙂Stack operations</h2>
 <img src="OUTPUT/Stack operations.png">
@@ -26,7 +27,7 @@
 <img src="OUTPUT/BST.png">
 <h2>🙂Breadth first search</h2>
 <img src="OUTPUT/BFS.png">
-<h1>🐧LEETCODE</h1>
+<h1>🐧LEETCODE OUTPUTS...</h1>
 <h2>🍬Delete LL element</h2>
 <img src="Leetcode/Delete LL element.png">
 <h2>🍬Sort LL</h2>

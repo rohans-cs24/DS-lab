@@ -27,6 +27,12 @@
 <img src="OUTPUT/BST.png">
 <h2>🙂Breadth first search</h2>
 <img src="OUTPUT/BFS.png">
+<h1>📅23/12/25</h1>
+<h2>🙂Depth first search</h2>
+<img src="OUTPUT/DFS.png">
+<h2>🙂Hash table</h2>
+<img src="OUTPUT/HashTable.png">
+
 <h1>🐧LEETCODE OUTPUTS...</h1>
 <h2>🍬Delete LL element</h2>
 <img src="Leetcode/Delete LL element.png">
